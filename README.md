@@ -17,4 +17,4 @@ Python and associated packages such as `pandas`, `NumPy`, `Matplotlib`, and `sci
 
 # Contributors
 - Jared Thach - github.com/jared8thach
-- https://www.kaggle.com/mateusdmachado/csgo-professional-matches?select=results.csv
+- Dataset from: https://www.kaggle.com/mateusdmachado/csgo-professional-matches?select=results.csv
