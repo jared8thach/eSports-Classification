@@ -14,10 +14,10 @@ Counter-Strike: Global Offensive (CS:GO) is a popular title among the PC gaming 
 
 # Technologies
 - Python
+  - `scikit-learn`
   - `pandas`
   - `NumPy`
   - `Matplotlib`
-  - `scikit-learn`.
 
 # Contributors
 - Jared Thach - github.com/jared8thach
