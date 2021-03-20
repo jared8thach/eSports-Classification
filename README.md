@@ -13,7 +13,11 @@ Counter-Strike: Global Offensive (CS:GO) is a popular title among the PC gaming 
 - Hypothesis Testing (2-Sample T-Test)
 
 # Technologies
-Python and associated packages such as `pandas`, `NumPy`, `Matplotlib`, and `scikit-learn`.
+- Python
+  - `pandas`
+  - `NumPy`
+  - `Matplotlib`
+  - `scikit-learn`.
 
 # Contributors
 - Jared Thach - github.com/jared8thach
